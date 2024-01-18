@@ -7,7 +7,8 @@ for configuration.
 
 ## Commands:
 
-Note: Like setuptools, flit doesn't manage your virtual environment. You'll need to create and activate one yourself (e.g. with [venv](https://docs.python.org/3/library/venv.html)) and install flit into it.
+> [!Note]
+> flit (like setuptools) doesn't manage your virtual environment. You'll need to create and activate one yourself (e.g. with [venv](https://docs.python.org/3/library/venv.html)).
 
 * Editable install:
 ```shell
