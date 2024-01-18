@@ -1,5 +1,3 @@
-Here's your updated README, tailored for Flit:
-
 # Flit 
 This package is an example project for building a Python package (i.e., wheel or sdist).
 It relies on [Flit](https://flit.readthedocs.io/en/latest/) as a build backend with pyproject.toml
